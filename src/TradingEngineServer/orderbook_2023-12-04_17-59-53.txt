@@ -1,0 +1,16 @@
+2023-12-04 18:12:59 [LogLevel.INFO] Currently Order book looks like:
+
+2023-12-04 18:12:59 [LogLevel.INFO] Bids Book:
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 44.18, Order-id: d, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 44.18, Order-id: f, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 44.1, Order-id: c, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 44.09, Order-id: k, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 44.07, Order-id: l, Size: 175
+2023-12-04 18:12:59 [LogLevel.INFO] Bid Price: 43.68, Order-id: h, Size: 50
+2023-12-04 18:12:59 [LogLevel.INFO] Asks Book:
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.18, Order-id: i, Size: 100
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.18, Order-id: j, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.22, Order-id: m, Size: 100
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.26, Order-id: b, Size: 0
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.27, Order-id: g, Size: 100
+2023-12-04 18:12:59 [LogLevel.INFO] Ask Price: 44.38, Order-id: e, Size: 0
